@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate web developer from India who likes to build Products<br><br>⭐I am currently learning Full Stack Web Development at Code For India Foundation<br><br>📝 I regularly write articles on https://medium.com/@abdulquayyum_<br><br>💬 Ask me about ReactJS,JavaScript,NodeJS ,HTML,CSS,Linux,Django<br><br>📫 How to reach me quayyummohd871@gmail.com<br><br>📄My portfolio htt_://quayyum.in<br><br>⚡ Fun fact I wish I would have the mind as well as resources as tony stark suit of armour.
+A passionate web developer from India who likes to build Products<br><br>⭐I am currently learning Full Stack Web Development at Code For India Foundation<br><br>📝 I regularly write articles on https://medium.com/@abdulquayyum_<br><br>💬 Ask me about ReactJS,JavaScript,NodeJS ,HTML,CSS,Linux,Django<br><br>📫 How to reach me quayyummohd871@gmail.com<br><br>📄My portfolio https://quayyum.in<br><br>⚡ Fun fact I wish I would have the mind as well as resources as tony stark suit of armour.
 
 
 ## 🌐 Socials:
